@@ -1,7 +1,8 @@
 ## Démarrer le projet
-1. Ouvrir le projet dans VSCode
-2. Depuis un terminal ouvert dans le dossier du projet, lancer la commande : `docker-compose up`
-3. Ouvrez le site depuis la page http://localhost:8080 
+1. Installer et ouvrir Docker
+2. Ouvrir le projet dans VSCode
+3. Depuis un terminal ouvert dans le dossier du projet, lancer la commande : `docker-compose up`
+4. Ouvrez le site depuis la page http://localhost:8080 
 
 ## Ouverture de Cypress
 1. Depuis le terminal, lancer la commande : `npx cypress open`
